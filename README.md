@@ -1,6 +1,6 @@
 # Projetos Simples em Java
 
-Este repositório contém pequenos programas em Java desenvolvidos para fins educativos, focando em **interação com o usuário**, **validação de entradas** e **operações matemáticas básicas**.
+Este repositório contém pequenos programas em Java desenvolvidos para fins educativos (dentro da pasta "src"), focando em **interação com o usuário**, **validação de entradas** e **operações matemáticas básicas**.
 
 Os exemplos incluem:
 
